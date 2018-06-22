@@ -1,9 +1,7 @@
 module.exports = [
-  "Chrome >= 63", // colleague specific
-  "last 2 chrome versions",
+  "chrome >= 63", // colleague specific
   "ie >= 10",
   "last 1 edge version",
-  "Firefox >= 56", // colleague specific
-  "last 1 firefox version",
+  "firefox >= 56", // colleague specific
   "last 1 safari version",
 ]
