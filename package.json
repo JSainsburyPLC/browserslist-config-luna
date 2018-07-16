@@ -1,11 +1,11 @@
 {
   "name": "browserslist-config-luna",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Shareable browser support list used by Luna apps",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Sainsbury's Supermarkets Ltd",
   "license": "MIT"
 }
