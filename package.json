@@ -1,6 +1,6 @@
 {
   "name": "browserslist-config-luna",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Shareable browser support list used by Luna apps",
   "main": "index.js",
   "scripts": {
